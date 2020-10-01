@@ -1,4 +1,6 @@
 # engineering-blogs
+A curated list of engineering blogs:
+
 * Airbnb-http://nerds.airbnb.com/
 * AirPair-https://www.airpair.com/posts
 * Artsy-http://artsy.github.io/
